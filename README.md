@@ -27,6 +27,7 @@ Kho lưu trữ này chứa một Jupyter Notebook viết bằng Python, tái hi�
 ```bash
 cd /Users/admin/Documents/xulitinhieuso_102230290
 source .venv_dsp/bin/activate
+# (chỉ cần lần đầu) pip install notebook
 jupyter notebook short_term_frequency_domain_speech.ipynb
 ```
 
